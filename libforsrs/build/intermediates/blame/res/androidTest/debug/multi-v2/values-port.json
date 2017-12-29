@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\values-port\\values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "55",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-port\\values-port.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\values-port\\values.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "55",
+                        "endOffsets": "107"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

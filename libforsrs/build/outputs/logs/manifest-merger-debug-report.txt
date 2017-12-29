@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:2:1-12:12
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:2:1-12:12
+	package
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:3:5-29
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:5:5-10:19
+	android:supportsRtl
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:8:9-35
+	android:label
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:7:9-41
+	android:allowBackup
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml:6:9-35
+uses-sdk
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+		ADDED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml
+		INJECTED from G:\myself_project\MyLiveApp\libforsrs\src\main\AndroidManifest.xml

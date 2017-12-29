@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "G:\\myself_project\\MyLiveApp\\libforsrs\\build\\intermediates\\res\\merged\\androidTest\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\王志明\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-21.0.3.aar\\e3bade15d51f533d4c81a8185149af9b\\res\\anim\\abc_slide_in_bottom.xml"
+    }
+]

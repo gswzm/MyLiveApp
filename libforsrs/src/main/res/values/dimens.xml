@@ -1,0 +1,43 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="title_height">55dp</dimen>
+
+    <dimen name="margin_15">15dp</dimen>
+    <dimen name="margin_5">5dp</dimen>
+
+    <!-- 工具条高度 -->
+    <dimen name="toolbar_top_height">45dp</dimen>
+
+    <!-- 通用 -->
+    <dimen name="margin_space_5">5dip</dimen>
+    <dimen name="margin_space_10">10dip</dimen>
+    <dimen name="margin_space_15">15dip</dimen>
+    <dimen name="margin_space_20">20dip</dimen>
+    <dimen name="margin_space_25">25dip</dimen>
+    <dimen name="margin_space_30">30dip</dimen>
+    <dimen name="margin_space_35">35dip</dimen>
+    <dimen name="margin_space_40">40dip</dimen>
+    <dimen name="margin_space_45">45dip</dimen>
+    <dimen name="margin_space_50">50dip</dimen>
+    
+    <!-- 侧拉狂 -->
+      <dimen name="slidingmenu_offset">200dip</dimen>
+      <dimen name="shadow_width">10dip</dimen>
+      <dimen name="list_padding">20dip</dimen>
+      
+      
+   <dimen name="streaming_item_padding">12dp</dimen>
+    <dimen name="streaming_ring_size">72dp</dimen>
+    <dimen name="streaming_ring_width">6dip</dimen>
+    <dimen name="streaming_square_corner_radius">8dip</dimen>
+    <dimen name="streaming_red_circle_padding">8dip</dimen>
+    <dimen name="streaming_red_square_padding">16dip</dimen>
+    <dimen name="streaming_streaming_status_padding">100dp</dimen>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="button_size">48dp</dimen>
+    <dimen name="list_font_size">18sp</dimen>
+    <dimen name="list_height_min">32dp</dimen>
+</resources>
